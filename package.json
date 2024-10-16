@@ -3,9 +3,15 @@
   "displayName": "Asset Validator",
   "description": "An extension that checks if all assets declared in pubspec.yaml are correctly placed in the assets folder and whether they are being used in the app.",
   "version": "1.0.0",
+  "publisher": "hassine-wassef",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.94.0"
   },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Hwassef/assets-validator.git"
+},
   "categories": [
     "Other"
   ],
